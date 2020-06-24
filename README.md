@@ -4,9 +4,9 @@ Trabajo práctico realizado para la materia Sistemas Operativos. Pequeña UI don
 
 Requisitos:
 
-- Java JDK >7
-- Maven
-- IntelliJ (Recomendado)
+- Java JDK >7: https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html
+- Maven: https://experto.dev/instalar-maven-en-windows/
+- IntelliJ (Recomendado) : https://www.jetbrains.com/idea/download/
 
 Pasos:
 
